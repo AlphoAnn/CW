@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-coloredbox",
-			"url": "https://www.sample.com/customwidgets/coloredbox/coloredbox.js",
+			"url": "https://github.com/AlphoAnn/CW/blob/main/coloredbox.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
