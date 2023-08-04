@@ -4,7 +4,7 @@
 	"name": "Colored Box",
 	"description": "A colored box",
 	"newInstancePrefix": "ColoredBox",
-	"icon": "C:\Alpho_Motive_Backup_15_07\SAC\Internal Projects\Icons\Cheetah Running.jpg",
+	"icon": "https://www.sample.com/customwidgets/coloredbox/icon.png",
 	"vendor": "SAP",
 	"eula": "",
 	"license": "",
