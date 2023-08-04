@@ -19,7 +19,7 @@
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-coloredbox-styling",
-			"url": "https://www.sample.com/customwidgets/coloredbox/coloredbox_styling.js",
+			"url": "https://github.com/AlphoAnn/CW/blob/main/coloredbox_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
