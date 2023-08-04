@@ -26,7 +26,7 @@
 		{
 			"kind": "builder",
 			"tag": "com-sap-sample-coloredbox-builder",
-			"url": "https://www.sample.com/customwidgets/coloredbox/coloredbox_builder.js",
+			"url": "https://github.com/AlphoAnn/CW/blob/main/coloredbox_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
